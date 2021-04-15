@@ -9,12 +9,12 @@ Continue still you print all letters in last line. Then start with the first let
 
 
 output :
-            C
-          C O
-        C O M
-      C O M E
-    C O M E W
-   C O M E W E
- C O M E W E L
+            C 
+          C O 
+        C O M 
+      C O M E 
+    C O M E W 
+  C O M E W E
+C O M E W E L
 
 */
